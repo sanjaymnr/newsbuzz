@@ -9,7 +9,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="index">NEWS-BUZZ</a>
+					<a class="navbar-brand" href="index.php">NEWS-BUZZ</a>
 				</div>
 
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -18,9 +18,6 @@
 						 <li><a href="trending.php">Trending News</a></li>
 						 <li><a href="register.php">Register</a></li>
                          <li><a href="admin">Admin Panel</a></li>
-
-
-
                     </ul>
 				</div>
 			</div>

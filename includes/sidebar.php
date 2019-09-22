@@ -36,5 +36,5 @@ Submit
                     </form>
                 </div>
 
-               <a href="register"> <img src="image/registernow.gif" alt="HTML5 Icon" style="width:358px;height:140px;"></a>
+               <a href="register.php"> <img src="image/registernow.gif" alt="HTML5 Icon" style="width:358px;height:140px;"></a>
 
